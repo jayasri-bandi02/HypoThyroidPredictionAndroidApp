@@ -1,4 +1,15 @@
 <resources>
+    <string name="question_1">Have you been experiencing symptoms such as fatigue,dramatic weight changes,dry skin,brittle hair,muscle aches or sensitivity to cold temperatures? </string>
+    <string name="question_2">Have you been experiencing these symptoms over an extended period of time? </string>
+    <string name="question_3">Is there any hereditary history of hypothyroidism? </string>
+    <string name="question_4">Do you have an auto-immune disorder such as type-1 diabetes or rheumatoid arthritis? </string>
+    <string name="question_5">Are you undergoing anti-thyroid medication or have undergone a thyroid surgery?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="no_risk">Take Care of Your Health</string>
+    <string name="nr">You are not at Risk</string>
+    <string name="at_risk">Please Consult The Doctor</string>
+    <string name="ar">You are At Risk</string>
     <string name="app_name">TheButterfly</string>
     <string name="about_content">Hypothyroidism, also called underactive thyroid or low thyroid, is a disorder of the endocrine system in which the thyroid gland does not produce enough thyroid hormone.It can cause a number of symptoms, such as poor ability to tolerate cold, a feeling of tiredness, constipation, depression, and weight gain. Occasionally there may be swelling of the front part of the neck due to goiter.</string>
 </resources>

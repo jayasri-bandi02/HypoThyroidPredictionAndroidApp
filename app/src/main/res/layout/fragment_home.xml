@@ -17,4 +17,11 @@
         android:textSize="20dp"
         android:text="@string/about_content"
         ></TextView>
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="266dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp" />
 </LinearLayout>
